@@ -59,12 +59,21 @@ Ever looked up at the sky and wondered *"Where is that plane going?"* or *"Is th
 Fly Scanner shows you the **airliners** and **satellites** that are passing over your location, in real time.
 
 <p align="center">
-  <img src="images/Flycanner_main.png" alt="Fly Scanner – planes overhead" width="250">
-  &nbsp;&nbsp;
-<img src="images/flyscanner_sattelites.png" alt="Fly Scanner – satellites overhead" width="250">
-  &nbsp;&nbsp;
-  <img src="images/flyscanner_screen.png" alt="Fly Scanner – flight details" width="250">
+  <img src="images/Flycanner_main.png" alt="Fly Scanner – What's flying above your home?" width="100%">
 </p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/flyscanner_screen.png" alt="Fly Scanner – flight details" width="100%">
+      <br><sub><b>Planes above you</b> – route, altitude and distance</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/flyscanner_sattelites.png" alt="Fly Scanner – upcoming satellite passes" width="100%">
+      <br><sub><b>Satellite passes</b> – time, altitude and closest distance</sub>
+    </td>
+  </tr>
+</table>
 
 ### How it works
 1. **Open the app** — it uses your location.
