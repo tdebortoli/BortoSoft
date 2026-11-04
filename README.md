@@ -20,12 +20,21 @@ You buy a TV, a phone or a coffee machine. Two years later it breaks… and the 
 Warranty Manager stores your receipts and warranty dates on your phone and tells you at a glance what is still covered.
 
 <p align="center">
-  <img src="images/warranty-manager-1.png" alt="Warranty Manager – list of products" width="250">
-  &nbsp;&nbsp;
-  <img src="images/warranty-manager-2.png" alt="Warranty Manager – scanning a receipt" width="250">
-  &nbsp;&nbsp;
-  <img src="images/warranty-manager-3.png" alt="Warranty Manager – product details" width="250">
+  <img src="images/fly-scanner-1.png" alt="Fly Scanner – What's flying above your home?" width="100%">
 </p>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/fly-scanner-3.png" alt="Fly Scanner – flight details" width="100%">
+      <br><sub><b>Planes above you</b> – route, altitude and distance</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/flyscanner_sattelites.png" alt="Fly Scanner – upcoming satellite passes" width="100%">
+      <br><sub><b>Satellite passes</b> – time, altitude and closest distance</sub>
+    </td>
+  </tr>
+</table>
 
 ### How it works
 1. **Take a photo** of your receipt.
