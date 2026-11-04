@@ -26,7 +26,7 @@ Warranty Manager stores your receipts and warranty dates on your phone and tells
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="flyscanner_screen" alt="Fly Scanner – flight details" width="100%">
+      <img src="images/flyscanner_screen.png" alt="Fly Scanner – flight details" width="100%">
       <br><sub><b>Planes above you</b> – route, altitude and distance</sub>
     </td>
     <td align="center" width="50%">
