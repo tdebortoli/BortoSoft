@@ -57,6 +57,7 @@ Fly Scanner shows you the **airliners** and **satellites** that are passing over
   <img src="images/flyscanner_screen.png" alt="Fly Scanner – flight details" width="250">
 </p>
 
+
 ### How it works
 1. **Open the app** — it uses your location.
 2. **See what's above you** — planes and satellites currently overhead.
