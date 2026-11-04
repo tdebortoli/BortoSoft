@@ -50,7 +50,7 @@ Ever looked up at the sky and wondered *"Where is that plane going?"* or *"Is th
 Fly Scanner shows you the **airliners** and **satellites** that are passing over your location, in real time.
 
 <p align="center">
-  <img src="images/fly-scanner-1.png" alt="Fly Scanner – planes overhead" width="250">
+  <img src="images/Flycanner_main.png" alt="Fly Scanner – planes overhead" width="250">
   &nbsp;&nbsp;
   <img src="images/fly-scanner-2.png" alt="Fly Scanner – satellites overhead" width="250">
   &nbsp;&nbsp;
