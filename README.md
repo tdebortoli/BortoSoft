@@ -52,7 +52,7 @@ Fly Scanner shows you the **airliners** and **satellites** that are passing over
 <p align="center">
   <img src="images/Flycanner_main.png" alt="Fly Scanner – planes overhead" width="250">
   &nbsp;&nbsp;
-
+<img src="images/flyscanner_sattelites.png" alt="Fly Scanner – satellites overhead" width="250">
   &nbsp;&nbsp;
   <img src="images/flyscanner_screen.png" alt="Fly Scanner – flight details" width="250">
 </p>
