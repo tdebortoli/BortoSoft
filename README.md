@@ -1,8 +1,8 @@
 # BortoSoft
 
-**Simple software to make everyday life easier.**
+**Simple Android Apps to make everyday life easier.**
 
-BortoSoft is a small collection of apps built to solve real, everyday problems — no clutter, no complicated setup. Just open the app and it works.
+BortoSoft is a small collection of Android apps built to solve real, everyday problems — no clutter, no complicated setup. Just open the app and it works.
 
 | App | What it does |
 |---|---|
@@ -50,7 +50,7 @@ Warranty Manager stores your receipts and warranty dates on your phone and tells
 
 ---
 
-## ✈️ Fly Scanner Android App
+## ✈️ Fly Scanner
 
 ### The idea
 Ever looked up at the sky and wondered *"Where is that plane going?"* or *"Is that a satellite?"* Fly Scanner gives you the answer.
