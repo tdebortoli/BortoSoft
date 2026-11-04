@@ -41,7 +41,7 @@ Warranty Manager stores your receipts and warranty dates on your phone and tells
 
 ---
 
-## ✈️ Fly Scanner
+## ✈️ Fly Scanner Android 
 
 ### The idea
 Ever looked up at the sky and wondered *"Where is that plane going?"* or *"Is that a satellite?"* Fly Scanner gives you the answer.
