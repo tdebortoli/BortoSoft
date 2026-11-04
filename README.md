@@ -20,13 +20,13 @@ You buy a TV, a phone or a coffee machine. Two years later it breaks… and the 
 Warranty Manager stores your receipts and warranty dates on your phone and tells you at a glance what is still covered.
 
 <p align="center">
-  <img src="images/fly-scanner-1.png" alt="Fly Scanner – What's flying above your home?" width="100%">
+  <img src="images/Flycanner_main.png" alt="Fly Scanner – What's flying above your home?" width="100%">
 </p>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="images/fly-scanner-3.png" alt="Fly Scanner – flight details" width="100%">
+      <img src="flyscanner_screen" alt="Fly Scanner – flight details" width="100%">
       <br><sub><b>Planes above you</b> – route, altitude and distance</sub>
     </td>
     <td align="center" width="50%">
